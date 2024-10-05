@@ -15,6 +15,7 @@
     "axios": "^1.7.7",
     "bcrypt": "^5.1.1",
     "jsonwebtoken": "^9.0.2",
+    "lecture20": "file:",
     "lodash": "^4.17.21",
     "lowdb": "^7.0.1",
     "nanostores": "^0.11.3",
